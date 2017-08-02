@@ -9,7 +9,6 @@ Download the example [or clone the repo](https://github.com/zeit/micro):
 curl https://codeload.github.com/zeit/micro/tar.gz/master | tar -xz --strip=2 micro-master/examples/external-api-call
 cd external-api-call
 ```
-
 Install it and run:
 
 ```bash
